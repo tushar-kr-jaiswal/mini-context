@@ -7,21 +7,7 @@
 ✅ Reusable UserContextProvider
 ✅ Simple login functionality
 
-📂 Project Structure
-bash
-Copy
-Edit
-/project-root
-│── /src
-│ ├── /context
-│ │ ├── UserContext.js
-│ │ ├── UserContextProvider.js
-│ ├── /components
-│ │ ├── Login.js
-│ │ ├── Profile.js
-│ ├── App.js
-│── package.json
-│── README.md
+
 🛠️ Installation & Setup
 1️⃣ Clone the repository:
 
